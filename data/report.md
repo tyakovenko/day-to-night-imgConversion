@@ -151,7 +151,7 @@ Outputs on the eval pair (`night.jpg` → enhanced, compared to `day.jpg`), in t
 
 | 🌙 Input (`night.jpg`) | ☀️ Ground truth (`day.jpg`) |
 |:---------------------:|:---------------------------:|
-| ![night](../night.jpg) | ![day](../day.jpg) |
+| <img src="../night.jpg" alt="night" width="100%"> | <img src="../day.jpg" alt="day" width="100%"> |
 
 ---
 

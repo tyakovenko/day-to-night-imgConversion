@@ -10,3 +10,12 @@ training_monitor.log
 hf_staging/
 transientAttributesDataset/
 experiment_log.csv
+
+# Claude-internal — stay local
+CLAUDE.md
+_claude/
+
+# Generated docs (derivable from .md)
+*.html
+README.pdf
+data/report.pdf
